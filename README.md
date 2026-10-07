@@ -29,4 +29,4 @@ tion more accessible for Bengali speakers, while the
 efficient 4-bit quantization and QLoRA fine-tuning pro
 vide an efficient approach to evaluate the performance
 of multilingual healthcare AI systems practically and
-effectively
+effectively.
